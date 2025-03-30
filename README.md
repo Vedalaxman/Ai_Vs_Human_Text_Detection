@@ -46,11 +46,6 @@ The trained models and vectorizer are saved for future inference:
 3. Predict using MNB and LR models.
 4. Compute weighted probabilities to make the final decision.
 
-## Issues & Future Work
-- **MemoryError with SHAP**: Reduce dataset size further or explore optimized explainability techniques.
-- **Imbalanced Data**: Implement techniques such as SMOTE to balance training data.
-- **Additional Models**: Try Transformer-based models (e.g., BERT) for improved accuracy.
-
 ## Author
-Developed as part of a text classification project to distinguish human-written content from AI-generated text.
+Peddi Veda Laxman
 
